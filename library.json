@@ -1,0 +1,23 @@
+{
+  "name": "ILED4",
+  "keywords": "ILED4, 7 segment, I2C",
+  "description": "Arduino Library for HT16K33 I2C 4x7segment display",
+  "authors":
+  [
+    {
+      "name": "",
+      "email": "",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.4.1",
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "ILED4.h"
+}
